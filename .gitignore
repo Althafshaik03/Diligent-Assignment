@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+/dist
+
+# Environment
+backend/.env
+
+# Hide scripts from source control
+scripts/
+
+# OS
+.DS_Store
+Thumbs.db
